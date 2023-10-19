@@ -1,3 +1,4 @@
+INACTIVE PROFILE, MOVED TO [@bil0ak](https://github.com/bil0ak)
 - 👋 Hi, I’m @Bilal-Akkil
 - 🤖 I’m interested in AI
 - 💻 I’m currently learning web development 
